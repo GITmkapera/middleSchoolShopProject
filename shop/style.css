@@ -1,0 +1,59 @@
+body
+{
+    background-image: url("files/bg.jpg");
+}
+nav
+{
+    font-family: 'Lucida Calligraphy';
+}
+.info
+{
+    margin-top: 50px;
+    font-size: xx-large;
+    color: white;
+}
+.about
+{
+    margin-top: 10px;
+    color: white;
+}
+.container
+{
+    width: 100%;
+}
+.main
+{
+    min-height: 90vh;
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    padding: 25px;
+    margin-top: 20px;
+    color: white;
+    font-size: 18px;
+}
+.fat
+{
+    font-size: 80px;
+    color: rgb(194, 185, 191);
+}
+.footer
+{
+    width: 100%;
+    text-align: center;
+    margin-top: 5px;
+    padding: 10px;
+    color: white;
+}
+.miniform
+{
+    max-width: 50%;
+}
+.products
+{
+    margin-right: 20px;
+}
+.prodFilter
+{
+    display: none;
+}
